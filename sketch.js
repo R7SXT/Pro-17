@@ -157,7 +157,7 @@ function draw() {
     //   reset();
     // }
 
-    if(keyDown(UP_ARROW)) {
+    if(keyDown("up")) {
       reset();
       console.log("b")
     }
